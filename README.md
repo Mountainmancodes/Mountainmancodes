@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mountainmancodes
 
-Welcome to my GitHub profile! I'm passionate about family, faith, technology and continuously expanding my skillset.
+Welcome to my GitHub profile! I'm passionate about my family, new technology and continuously expanding my skillset.
 
 ## 🌱 What I'm Learning
 
